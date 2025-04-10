@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LPDataLogger")(type "KiCad")(uri "${KIPRJMOD}/LPDataLogger.kicad_sym")(options "")(descr ""))
+)
