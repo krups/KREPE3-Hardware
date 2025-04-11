@@ -4325,6 +4325,16 @@
 		)
 		(uuid "78e86019-03cd-48ec-ac35-53dcb3df0fea")
 	)
+	(text "RXD"
+		(exclude_from_sim no)
+		(at 17.018 56.388 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8399cad7-8e97-4921-ac38-fa24d498c05d")
+	)
 	(text "FSM300 \n9-axis IMU"
 		(exclude_from_sim no)
 		(at 83.82 57.404 0)
@@ -4337,6 +4347,16 @@
 			(justify left)
 		)
 		(uuid "a05f62a7-73af-4fef-969a-b599fbe2d424")
+	)
+	(text "TXD"
+		(exclude_from_sim no)
+		(at 17.018 49.022 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "aba7f047-6335-4fbf-9957-db7d09a631de")
 	)
 	(text "Pressure Sensor"
 		(exclude_from_sim no)

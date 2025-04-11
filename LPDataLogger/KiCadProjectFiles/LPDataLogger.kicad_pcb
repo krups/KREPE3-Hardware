@@ -6378,7 +6378,7 @@
 		(descr "JST GH series connector, BM03B-GHS-TBT (http://www.jst-mfg.com/product/pdf/eng/eGH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST GH vertical")
 		(property "Reference" "J3"
-			(at 0 -4 90)
+			(at -3.61 2.794 90)
 			(layer "F.SilkS")
 			(uuid "4150b173-2039-493d-9f8a-f9b3646bfe48")
 			(effects
@@ -9838,6 +9838,18 @@
 			(font
 				(size 1 1)
 				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "TXD\nRXD\nGND"
+		(at 187.325 107.315 0)
+		(layer "F.SilkS")
+		(uuid "439bf4b5-d975-4680-807b-a336ed111852")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.127)
 			)
 			(justify left bottom)
 		)
