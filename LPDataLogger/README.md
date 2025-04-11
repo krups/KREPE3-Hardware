@@ -2,6 +2,7 @@
 PCB design files and documentation for low power data-logger module for KREPE-3
 
 ### PCB Render
+<img src="Documentation/pcbtop.png" width="25%"><img src="Documentation/pcbbottom.png" width="25%">
 
 ### Components
 - [Raspberry Pi Pico 2 (4MB Flash)](https://datasheets.raspberrypi.com/pico/pico-2-datasheet.pdf)
