@@ -5929,7 +5929,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey Part Number" "WM6357TR-ND"
+		(property "Digikey Part Number" "WM6357CT-ND"
 			(at 250.19 43.18 0)
 			(effects
 				(font
@@ -6430,7 +6430,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey Part Number" "311-100GRTR-ND"
+		(property "Digikey Part Number" "311-100GRCT-ND"
 			(at 116.84 30.48 0)
 			(effects
 				(font
@@ -6859,7 +6859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey Part Number" "0603B104K500XD"
+		(property "Digikey Part Number" "311-1088-1-ND"
 			(at 128.27 27.94 0)
 			(effects
 				(font
@@ -7750,7 +7750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey Part Number" "MCP96L00T-E/MXTR-ND"
+		(property "Digikey Part Number" "MCP96L00T-E/MXCT-ND"
 			(at 156.21 34.29 0)
 			(effects
 				(font
@@ -8619,7 +8619,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey Part Number" "13-RC0603FR-1310KLTR-ND"
+		(property "Digikey Part Number" "13-RC0603FR-1310KLCT-ND"
 			(at 261.62 82.55 0)
 			(effects
 				(font
@@ -8895,7 +8895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey Part Number" "13-RC0603FR-1310KLTR-ND"
+		(property "Digikey Part Number" "13-RC0603FR-1310KLCT-ND"
 			(at 261.62 80.01 0)
 			(effects
 				(font
@@ -8974,7 +8974,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey Part Number" "0603B104K500XD"
+		(property "Digikey Part Number" "311-1088-1-ND"
 			(at 177.8 30.48 0)
 			(effects
 				(font
@@ -9320,7 +9320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey Part Number" "0603B104K500XD"
+		(property "Digikey Part Number" "311-1088-1-ND"
 			(at 111.76 71.12 0)
 			(effects
 				(font
@@ -9462,7 +9462,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey Part Number" "311-100GRTR-ND"
+		(property "Digikey Part Number" "311-100GRCT-ND"
 			(at 116.84 25.4 0)
 			(effects
 				(font
